@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSON Data</title>
+    <title>JSON Data and Base64 Decode</title>
 </head>
 
 <body>
@@ -17,7 +17,29 @@
             "dailyStatus": false
         };
 
-        document.body.innerHTML = `<pre>${JSON.stringify(jsonData, null, 2)}</pre>`;
+        // Convert JSON to string
+        const jsonString = JSON.stringify(jsonData);
+
+        // Encode the string to base64
+        const base64Data = btoa(jsonString);
+
+        // Display the original JSON
+        document.body.innerHTML += `<h2>Original JSON:</h2>`;
+        document.body.innerHTML += `<pre>${JSON.stringify(jsonData, null, 2)}</pre>`;
+
+        // Display the base64 encoded string
+        document.body.innerHTML += `<h2>Base64 Encoded:</h2>`;
+        document.body.innerHTML += `<pre>${base64Data}</pre>`;
+
+        // Decode the base64 string
+        const decodedString = atob(base64Data);
+
+        // Parse the decoded JSON
+        const decodedJson = JSON.parse(decodedString);
+
+        // Display the decoded JSON
+        document.body.innerHTML += `<h2>Decoded JSON:</h2>`;
+        document.body.innerHTML += `<pre>${JSON.stringify(decodedJson, null, 2)}</pre>`;
     </script>
 
 </body>
