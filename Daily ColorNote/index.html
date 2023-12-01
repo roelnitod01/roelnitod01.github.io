@@ -4,35 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSON Data and Base64 Decode</title>
+    <title>Base64 Decoded JSON</title>
 </head>
 
 <body>
 
     <script>
-        const jsonData = {
-            "dailyItem": "",
-            "dailyLink": "https://www.789902.com/?a=213079",
-            "dailyNote": "",
-            "dailyStatus": false
-        };
+        // Base64-encoded JSON string
+        const base64EncodedString = 'eyJkYWlseUltZW0iOiIiLCJkYWlseUxpbmsiOiJodHRwczovL3d3dy43ODk5MDIuY29tLz9hPTIxMzA3OSIsImRhaWx5Tm90ZSI6IiIsImRhaWx5U3RhdHVzIjpmYWxzZX0=';
 
-        // Convert JSON to string
-        const jsonString = JSON.stringify(jsonData);
-
-        // Encode the string to base64
-        const base64Data = btoa(jsonString);
-
-        // Display the original JSON
-        document.body.innerHTML += `<h2>Original JSON:</h2>`;
-        document.body.innerHTML += `<pre>${JSON.stringify(jsonData, null, 2)}</pre>`;
-
-        // Display the base64 encoded string
-        document.body.innerHTML += `<h2>Base64 Encoded:</h2>`;
-        document.body.innerHTML += `<pre>${base64Data}</pre>`;
-
-        // Decode the base64 string
-        const decodedString = atob(base64Data);
+        // Decode base64 string
+        const decodedString = atob(base64EncodedString);
 
         // Parse the decoded JSON
         const decodedJson = JSON.parse(decodedString);
