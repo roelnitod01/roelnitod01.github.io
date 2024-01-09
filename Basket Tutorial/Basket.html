@@ -8,6 +8,12 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            -user-select: none;
+            
+            -webkit-tap-highlight-color: transparent;
         }
         h1, h2 {
             color: #333;
@@ -21,6 +27,8 @@
             height: auto;
         }
     </style>
+    <script>window.addEventListener('contextmenu', function (e) { e.preventDefault(); }); </script>
+
 </head>
 <body>
 
@@ -30,7 +38,6 @@
 
     <h2>1. Basketball Court</h2>
     <p>The basketball court is where the game is played. It consists of a rectangular floor with a hoop at each end. The court is divided into two main sections: the frontcourt and the backcourt.</p>
-    <img src="basketball_court.jpg" alt="Basketball Court">
 
     <h2>2. Basic Rules</h2>
     <p>Understanding the basic rules of basketball is crucial. This includes dribbling, passing, shooting, and defense. Familiarize yourself with the rules to enjoy the game and play it effectively.</p>
@@ -49,9 +56,6 @@
 
     <h2>7. Rebounding</h2>
     <p>Rebounding involves grabbing the ball off the backboard after a missed shot. Work on your rebounding skills, as it can give your team extra opportunities to score.</p>
-
-    <h2>Conclusion</h2>
-    <p>Basketball is a dynamic and exciting sport that requires a combination of skills, teamwork, and strategy. Keep practicing and enjoy the game!</p>
 
 </body>
 </html>
