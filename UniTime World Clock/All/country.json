@@ -1,5 +1,6 @@
 {
-	{
+  "countries": [
+	  {
       "name": "United States",
       "code": "US",
       "image": "https://flagsapi.com/US/flat/64.png",
@@ -14,7 +15,7 @@
     {
       "name": "United Kingdom",
       "code": "GB",
-      "code": "https://flagsapi.com/GB/flat/64.png",
+      "image": "https://flagsapi.com/GB/flat/64.png",
       "continent": "Europe"
     },
     {
@@ -47,5 +48,5 @@
       "image": "https://flagsapi.com/ZA/flat/64.png",
       "continent": "Africa"
     }
- 
+  ]
 }
