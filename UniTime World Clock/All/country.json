@@ -1,52 +1,52 @@
 {
   "countries": [
 	  {
-      "name": "United States",
-      "code": "US",
-      "image": "https://flagsapi.com/US/flat/64.png",
-      "continent": "North America"
+      "name": "Thailand",
+      "code": "TH",
+      "image": "",
+      "continent": "Asia/Bangkok"
     },
     {
-      "name": "Canada",
-      "code": "CA",
-      "image": "https://flagsapi.com/CA/flat/64.png",
-      "continent": "North America"
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "image": "",
+      "continent": "Asia/Almaty"
     },
     {
-      "name": "United Kingdom",
-      "code": "GB",
-      "image": "https://flagsapi.com/GB/flat/64.png",
-      "continent": "Europe"
+      "name": "Jordan",
+      "code": "JO",
+      "image": "",
+      "continent": "Asia/Amman"
     },
     {
-      "name": "Germany",
-      "code": "DE",
-      "image": "https://flagsapi.com/DE/flat/64.png",
-      "continent": "Europe"
+      "name": "Russia",
+      "code": "RJ",
+      "image": "",
+      "continent": "Asia/Anadyr"
     },
     {
-      "name": "China",
-      "code": "CN",
-      "image": "https://flagsapi.com/CN/flat/64.png",
-      "continent": "Asia"
+      "name": "Turkmenistan",
+      "code": "TM",
+      "image": "",
+      "continent": "Asia/Ashgabat"
     },
     {
-      "name": "Australia",
-      "code": "AU",
-      "image": "https://flagsapi.com/AU/flat/64.png",
-      "continent": "Oceania"
+      "name": "Iraq",
+      "code": "IQ",
+      "image": "",
+      "continent": "Asia/Baghdad"
     },
     {
-      "name": "Brazil",
-      "code": "BR",
-	  "image": "https://flagsapi.com/BR/flat/64.png",
-      "continent": "South America"
+      "name": "Azerbaijan ",
+      "code": "AZ",
+	  "image": "",
+      "continent": "Asia/Baku"
     },
     {
-      "name": "South Africa",
-      "code": "ZA",
-      "image": "https://flagsapi.com/ZA/flat/64.png",
-      "continent": "Africa"
+      "name": "Lebanon",
+      "code": "LB",
+      "image": "",
+      "continent": "Asia/Beirut"
     }
   ]
 }
