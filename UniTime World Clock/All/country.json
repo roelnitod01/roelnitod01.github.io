@@ -47,6 +47,74 @@
       "code": "LB",
       "image": "",
       "continent": "Asia/Beirut"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "image": "",
+      "continent": "Asia/Bishkek"
+    },
+    {
+      "name": "Mongolia ",
+      "code": "MN",
+      "image": "",
+      "continent": "Asia/Choibalsan"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "image": "",
+      "continent": "Asia/Colombo"
+    },
+    {
+      "name": "Syria ",
+      "code": "SY",
+      "image": "",
+      "continent": "Asia/Damascus"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "image": "",
+      "continent": "Asia/Dhaka"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "image": "",
+      "continent": "Asia/Dili"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "image": "",
+      "continent": "Asia/Dubai"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "image": "",
+      "continent": "Asia/Dushanbe"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "image": "",
+      "continent": "Asia/Famagusta"
+    },
+    {
+      "name": "Palestinian Territories",
+      "code": "PS",
+      "image": "",
+      "continent": "Asia/Gaza"
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "image": "",
+      "continent": "Asia/Ho_Chi_Minh"
     }
+
+
   ]
 }
