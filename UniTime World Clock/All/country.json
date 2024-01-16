@@ -647,8 +647,366 @@
       "code": "AU",
       "image": "",
       "continent": "Atlantic/Adelaide"
+    },
+    {
+      "name": "Andorra ",
+      "code": "AD",
+      "image": "",
+      "continent": "Europe/Andorra"
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "image": "",
+      "continent": "Europe/Athens"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "image": "",
+      "continent": "Europe/Belgrade"
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "image": "",
+      "continent": "Europe/Berlin"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "image": "",
+      "continent": "Europe/Brussels"
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "image": "",
+      "continent": "Europe/Bucharest"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "image": "",
+      "continent": "Europe/Budapest"
+    },
+    {
+      "name": "Moldova",
+      "code": "MD",
+      "image": "",
+      "continent": "Europe/Chisinau"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "image": "",
+      "continent": "Europe/Dublin"
+    },
+    {
+      "name": "Gibraltar",
+      "code": "GI",
+      "image": "",
+      "continent": "Europe/Gibraltar"
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "image": "",
+      "continent": "Europe/Helsinki"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "image": "",
+      "continent": "Europe/Istanbul"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "image": "",
+      "continent": "Europe/Kyiv"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "image": "",
+      "continent": "Europe/Lisbon"
+    },
+    {
+      "name": "London",
+      "code": "GB",
+      "image": "",
+      "continent": "Europe/United Kingdom"
+    },
+    {
+      "name": "Spain ",
+      "code": "ES",
+      "image": "",
+      "continent": "Europe/Madrid"
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "image": "",
+      "continent": "Europe/Malta"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "image": "",
+      "continent": "Europe/Minsk"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "image": "",
+      "continent": "Europe/Paris"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "image": "",
+      "continent": "Europe/Prague"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "image": "",
+      "continent": "Europe/Riga"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "image": "",
+      "continent": "Europe/Rome"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "image": "",
+      "continent": "Europe/Sofia"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "image": "",
+      "continent": "Europe/Tallinn"
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "image": "",
+      "continent": "Europe/Tirane"
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "image": "",
+      "continent": "Europe/Vienna"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "image": "",
+      "continent": "Europe/Vilnius"
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "image": "",
+      "continent": "Europe/Warsaw"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "image": "",
+      "continent": "Europe/Zurich"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "code": "IO",
+      "image": "",
+      "continent": "Indian/Chagos"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "image": "",
+      "continent": "Indian/Maldives"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "image": "",
+      "continent": "Indian/Mauritius"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "image": "",
+      "continent": "Pacific/Apia"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "image": "",
+      "continent": "Pacific/Auckland"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "image": "",
+      "continent": "Pacific/Bougainville"
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "image": "",
+      "continent": "Pacific/Easter"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "image": "",
+      "continent": "Pacific/Efate"
+    },
+    {
+      "name": "Tokelau",
+      "code": "TK",
+      "image": "",
+      "continent": "Pacific/Fakaofo"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "image": "",
+      "continent": "Pacific/Fiji"
+    },
+    {
+      "name": "Ecuador ",
+      "code": "EC",
+      "image": "",
+      "continent": "Pacific/Galapagos"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF",
+      "image": "",
+      "continent": "Pacific/Gambier"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "image": "",
+      "continent": "Pacific/Guadalcanal"
+    },
+    {
+      "name": "Guam",
+      "code": "GU",
+      "image": "",
+      "continent": "Pacific/Guam"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "image": "",
+      "continent": "Pacific/Kanton"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "image": "",
+      "continent": "Pacific/Kiritimati"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "code": "FM",
+      "image": "",
+      "continent": "Pacific/Kosrae"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "image": "",
+      "continent": "Pacific/Kwajalein"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF",
+      "image": "",
+      "continent": "Pacific/Marquesas"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "image": "",
+      "continent": "Pacific/Nauru"
+    },
+    {
+      "name": "Niue",
+      "code": "NU",
+      "image": "",
+      "continent": "Pacific/Niue"
+    },
+    {
+      "name": "Norfolk Island",
+      "code": "NF",
+      "image": "",
+      "continent": "Pacific/Norfolk"
+    },
+    {
+      "name": "New Caledonia",
+      "code": "NC",
+      "image": "",
+      "continent": "Pacific/Noumea"
+    },
+    {
+      "name": "American Samoa",
+      "code": "AS",
+      "image": "",
+      "continent": "Pacific/Pago_Pago"
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "image": "",
+      "continent": "Pacific/Palau"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "code": "PN",
+      "image": "",
+      "continent": "Pacific/Pitcairn"
+    },
+    {
+      "name": "Papua New",
+      "code": "PG",
+      "image": "",
+      "continent": "Pacific/Port_Moresby"
+    },
+    {
+      "name": "Cook Islands",
+      "code": "CK",
+      "image": "",
+      "continent": "Pacific/Rarotonga"
+    },
+    {
+      "name": "French Polynesia",
+      "code": "PF",
+      "image": "",
+      "continent": "Pacific/Tahiti"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "image": "",
+      "continent": "Pacific/Tarawa"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "image": "",
+      "continent": "Pacific/Tongatapu"
     }
-
-
   ]
 }
