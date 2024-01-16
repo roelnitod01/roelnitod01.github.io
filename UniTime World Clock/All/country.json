@@ -33,152 +33,146 @@
     {
       "name": "Iraq",
       "code": "IQ",
-      "image": "",
+      "image": "https://flagsapi.com/IQ/shiny/64.png",
       "continent": "Asia/Baghdad"
     },
     {
       "name": "Azerbaijan ",
       "code": "AZ",
-	  "image": "",
+	  "image": "https://flagsapi.com/AZ/shiny/64.png",
       "continent": "Asia/Baku"
     },
     {
       "name": "Lebanon",
       "code": "LB",
-      "image": "",
+      "image": "https://flagsapi.com/LB/shiny/64.png",
       "continent": "Asia/Beirut"
     },
     {
       "name": "Kyrgyzstan",
       "code": "KG",
-      "image": "",
+      "image": "https://flagsapi.com/KG/shiny/64.png",
       "continent": "Asia/Bishkek"
     },
     {
       "name": "Mongolia ",
       "code": "MN",
-      "image": "",
+      "image": "https://flagsapi.com/MN/shiny/64.png",
       "continent": "Asia/Choibalsan"
     },
     {
       "name": "Sri Lanka",
       "code": "LK",
-      "image": "",
+      "image": "https://flagsapi.com/LK/shiny/64.png",
       "continent": "Asia/Colombo"
     },
     {
       "name": "Syria ",
       "code": "SY",
-      "image": "",
+      "image": "https://flagsapi.com/SY/shiny/64.png",
       "continent": "Asia/Damascus"
     },
     {
       "name": "Bangladesh",
       "code": "BD",
-      "image": "",
+      "image": "https://flagsapi.com/BD/shiny/64.png",
       "continent": "Asia/Dhaka"
     },
     {
       "name": "Timor-Leste",
       "code": "TL",
-      "image": "",
+      "image": "https://flagsapi.com/TL/shiny/64.png",
       "continent": "Asia/Dili"
     },
     {
       "name": "United Arab Emirates",
       "code": "AE",
-      "image": "",
+      "image": "https://flagsapi.com/AE/shiny/64.png",
       "continent": "Asia/Dubai"
     },
     {
       "name": "Tajikistan",
       "code": "TJ",
-      "image": "",
+      "image": "https://flagsapi.com/TJ/shiny/64.png",
       "continent": "Asia/Dushanbe"
     },
     {
       "name": "Cyprus",
       "code": "CY",
-      "image": "",
+      "image": "https://flagsapi.com/CY/shiny/64.png",
       "continent": "Asia/Famagusta"
     },
     {
       "name": "Palestinian Territories",
       "code": "PS",
-      "image": "",
+      "image": "https://flagsapi.com/PS/shiny/64.png",
       "continent": "Asia/Gaza"
     },
     {
       "name": "Vietnam",
       "code": "VN",
-      "image": "",
+      "image": "https://flagsapi.com/VN/shiny/64.png",
       "continent": "Asia/Ho_Chi_Minh"
     },
     {
       "name": "Hong Kong",
       "code": "HK",
-      "image": "",
+      "image": "https://flagsapi.com/HK/shiny/64.png",
       "continent": "Asia/Hong_Kong"
     },
     {
       "name": "Mongolia",
       "code": "MN",
-      "image": "",
+      "image": "https://flagsapi.com/MN/shiny/64.png",
       "continent": "Asia/Hovd"
     },
     {
       "name": "Indonesia",
-      "code": "RU",
-      "image": "",
+      "code": "ID",
+      "image": "https://flagsapi.com/ID/shiny/64.png",
       "continent": "Asia/Jayapura"
     },
     {
       "name": "Israel",
       "code": "IL",
-      "image": "",
+      "image": "https://flagsapi.com/IL/shiny/64.png",
       "continent": "Asia/Jerusalem"
     },
     {
       "name": "Afghanistan",
       "code": "AF",
-      "image": "",
+      "image": "https://flagsapi.com/AF/shiny/64.png",
       "continent": "Asia/Kabul"
     },
     {
       "name": "Pakistan",
       "code": "PK",
-      "image": "",
+      "image": "https://flagsapi.com/PK/shiny/64.png",
       "continent": "Asia/Karachi"
     },
     {
       "name": "Nepal",
       "code": "NP",
-      "image": "",
+      "image": "https://flagsapi.com/NP/shiny/64.png",
       "continent": "Asia/Kathmandu"
     },
     {
       "name": "India",
       "code": "IN",
-      "image": "",
+      "image": "https://flagsapi.com/IN/shiny/64.png",
       "continent": "Asia/Kolkata"
     },
     {
       "name": "Malaysia",
       "code": "MY",
-      "image": "",
+      "image": "https://flagsapi.com/MY/shiny/64.png",
       "continent": "Asia/Kuching"
     },
     {
       "name": "Macau",
       "code": "MO",
-      "image": "",
+      "image": "https://flagsapi.com/MO/shiny/64.png",
       "continent": "Asia/Macau"
-    },
-    {
-      "name": "Indonesia",
-      "code": "ID",
-      "image": "",
-      "continent": "Asia/Makassar"
     },
     {
       "name": "Philippines",
@@ -189,43 +183,37 @@
     {
       "name": "Cyprus",
       "code": "CY",
-      "image": "",
+      "image": "https://flagsapi.com/NY/shiny/64.png",
       "continent": "Asia/Nicosia"
-    },
-    {
-      "name": "Kazakhstan",
-      "code": "KZ",
-      "image": "",
-      "continent": "Asia/Oral"
     },
     {
       "name": "North Korea",
       "code": "KP",
-      "image": "",
+      "image": "https://flagsapi.com/KP/shiny/64.png",
       "continent": "Asia/Pyongyang"
     },
     {
       "name": "Qatar",
       "code": "QA",
-      "image": "",
+      "image": "https://flagsapi.com/QA/shiny/64.png",
       "continent": "Asia/Qatar"
     },
     {
       "name": "Saudi Arabia",
       "code": "SA",
-      "image": "",
+      "image": "https://flagsapi.com/SA/shiny/64.png",
       "continent": "Asia/Riyadh"
     },
     {
       "name": "Uzbekistan",
       "code": "UZ",
-      "image": "",
+      "image": "https://flagsapi.com/UZ/shiny/64.png",
       "continent": "Asia/Samarkand"
     },
     {
       "name": "South Korea",
       "code": "KR",
-      "image": "",
+      "image": "https://flagsapi.com/KR/shiny/64.png",
       "continent": "Asia/Seoul"
     },
     {
@@ -237,31 +225,31 @@
     {
       "name": "Singapore",
       "code": "SG",
-      "image": "",
+      "image": "https://flagsapi.com/SG/shiny/64.png",
       "continent": "Asia/Singapore"
     },
     {
       "name": "Taiwan",
       "code": "TW",
-      "image": "",
+      "image": "https://flagsapi.com/TW/shiny/64.png",
       "continent": "Asia/Taipei"
     },
     {
       "name": "Georgia",
       "code": "GE",
-      "image": "",
+      "image": "https://flagsapi.com/GE/shiny/64.png",
       "continent": "Asia/Tbilisi"
     },
     {
       "name": "Iran",
       "code": "IR",
-      "image": "",
+      "image": "https://flagsapi.com/IR/shiny/64.png",
       "continent": "Asia/Tehran"
     },
     {
       "name": "Bhutan",
       "code": "BT",
-      "image": "",
+      "image": "https://flagsapi.com/BT/shiny/64.png",
       "continent": "Asia/Thimphu"
     },
     {
