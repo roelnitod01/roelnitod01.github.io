@@ -381,619 +381,553 @@
     {
       "name": "United States",
       "code": "US",
-      "image": "",
+      "image": "https://flagsapi.com/US/shiny/64.png",
       "continent": "America/Adak"
     },
     {
       "name": "Brazil",
       "code": "BR",
-      "image": "",
+      "image": "https://flagsapi.com/BR/shiny/64.png",
       "continent": "America/Araguaina"
     },
     {
       "name": "Argentina",
       "code": "AR",
-      "image": "",
+      "image": "https://flagsapi.com/AR/shiny/64.png",
       "continent": "America/Argentina/Buenos_Aires"
     },
     {
       "name": "Paraguay",
       "code": "PY",
-      "image": "",
+      "image": "https://flagsapi.com/PY/shiny/64.png",
       "continent": "America/Asuncion"
     },
     {
       "name": "Mexico",
       "code": "MX",
-      "image": "",
+      "image": "https://flagsapi.com/MX/shiny/64.png",
       "continent": "America/Bahia_Banderas"
     },
     {
       "name": "Barbados",
       "code": "BB",
-      "image": "",
+      "image": "https://flagsapi.com/BB/shiny/64.png",
       "continent": "America/Barbados"
     },
     {
       "name": "Colombia",
       "code": "CO",
-      "image": "",
+      "image": "https://flagsapi.com/CO/shiny/64.png",
       "continent": "America/Bogota"
     },
     {
       "name": "Canada",
       "code": "CA",
-      "image": "",
+      "image": "https://flagsapi.com/CA/shiny/64.png",
       "continent": "America/Cambridge_Bay"
     },
     {
       "name": "Venezuela",
       "code": "VE",
-      "image": "",
+      "image": "https://flagsapi.com/VE/shiny/64.png",
       "continent": "America/Caracas"
-    },
-    {
-      "name": "French Guiana",
-      "code": "GF",
-      "image": "",
-      "continent": "America/Cayenne"
     },
     {
       "name": "Costa Rica",
       "code": "CR",
-      "image": "",
+      "image": "https://flagsapi.com/CR/shiny/64.png",
       "continent": "America/Costa_Rica"
     },
     {
       "name": "Greenland",
       "code": "GL",
-      "image": "",
+      "image": "https://flagsapi.com/GL/shiny/64.png",
       "continent": "America/Danmarkshavn"
     },
     {
       "name": "El Salvador",
       "code": "SV",
-      "image": "",
+      "image": "https://flagsapi.com/SV/shiny/64.png",
       "continent": "America/El_Salvador"
     },
     {
       "name": "Turks and Caicos Islands",
       "code": "TC",
-      "image": "",
+      "image": "https://flagsapi.com/TC/shiny/64.png",
       "continent": "America/Grand_Turk"
     },
     {
       "name": "Guatemala",
       "code": "GT",
-      "image": "",
+      "image": "https://flagsapi.com/GT/shiny/64.png",
       "continent": "America/Guatemala"
     },
     {
       "name": "Ecuador",
       "code": "EC",
-      "image": "",
+      "image": "https://flagsapi.com/EC/shiny/64.png",
       "continent": "America/Guayaquil"
     },
     {
       "name": "Guyana",
       "code": "GY",
-      "image": "",
+      "image": "https://flagsapi.com/GY/shiny/64.png",
       "continent": "America/Guyana"
     },
     {
       "name": "Cuba",
       "code": "CU",
-      "image": "",
+      "image": "https://flagsapi.com/CU/shiny/64.png",
       "continent": "America/Havana"
     },
     {
       "name": "Jamaica",
       "code": "JM",
-      "image": "",
+      "image": "https://flagsapi.com/JM/shiny/64.png",
       "continent": "America/Jamaica"
     },
     {
       "name": "Bolivia",
       "code": "BO",
-      "image": "",
+      "image": "https://flagsapi.com/BO/shiny/64.png",
       "continent": "America/La_Paz"
     },
     {
       "name": "Peru",
       "code": "PE",
-      "image": "",
+      "image": "https://flagsapi.com/PE/shiny/64.png",
       "continent": "America/Lima"
     },
     {
       "name": "Nicaragua",
       "code": "NI",
-      "image": "",
+      "image": "https://flagsapi.com/NI/shiny/64.png",
       "continent": "America/Managua"
     },
     {
       "name": "Martinique",
       "code": "MQ",
-      "image": "",
+      "image": "https://flagsapi.com/MQ/shiny/64.png",
       "continent": "America/Martinique"
     },
     {
       "name": "Saint Pierre and Miquelon",
       "code": "PM",
-      "image": "",
+      "image": "https://flagsapi.com/PM/shiny/64.png",
       "continent": "America/Miquelon"
     },
     {
       "name": "Uruguay",
       "code": "UY",
-      "image": "",
+      "image": "https://flagsapi.com/UY/shiny/64.png",
       "continent": "America/Montevideo"
     },
     {
       "name": "Panama",
       "code": "PA",
-      "image": "",
+      "image": "https://flagsapi.com/PA/shiny/64.png",
       "continent": "America/Panama"
     },
     {
       "name": "Suriname",
       "code": "SR",
-      "image": "",
+      "image": "https://flagsapi.com/SR/shiny/64.png",
       "continent": "America/Paramaribo"
     },
     {
       "name": "Haiti",
       "code": "HT",
-      "image": "",
+      "image": "https://flagsapi.com/HT/shiny/64.png",
       "continent": "America/Port-au-Prince"
     },
     {
       "name": "Puerto Rico",
       "code": "PR",
-      "image": "",
+      "image": "https://flagsapi.com/PR/shiny/64.png",
       "continent": "America/Puerto_Rico"
     },
     {
       "name": "Chile",
-      "code": "VN",
-      "image": "",
+      "code": "CL",
+      "image": "https://flagsapi.com/CL/shiny/64.png",
       "continent": "America/Punta_Arenas"
     },
     {
       "name": "Dominican Republic",
       "code": "DO",
-      "image": "",
+      "image": "https://flagsapi.com/DO/shiny/64.png",
       "continent": "America/Santo_Domingo"
     },
     {
       "name": "Honduras",
       "code": "HN",
-      "image": "",
+      "image": "https://flagsapi.com/HN/shiny/64.png",
       "continent": "America/Tegucigalpa"
     },
     {
       "name": "Antarctica",
       "code": "AQ",
-      "image": "",
+      "image": "https://flagsapi.com/AQ/shiny/64.png",
       "continent": "America/Casey"
-    },
-    {
-      "name": "Antarctica",
-      "code": "AQ",
-      "image": "",
-      "continent": "America/Davis"
     },
     {
       "name": "Australia",
       "code": "AU",
-      "image": "",
+      "image": "https://flagsapi.com/AU/shiny/64.png",
       "continent": "America/Macquarie"
     },
     {
       "name": "Portugal",
       "code": "PT",
-      "image": "",
+      "image": "https://flagsapi.com/PT/shiny/64.png",
       "continent": "Atlantic/Azores"
     },
     {
       "name": "Bermuda ",
       "code": "BM",
-      "image": "",
+      "image": "https://flagsapi.com/BM/shiny/64.png",
       "continent": "Atlantic/Bermuda"
     },
     {
       "name": "Spain",
       "code": "ES",
-      "image": "",
+      "image": "https://flagsapi.com/ES/shiny/64.png",
       "continent": "Atlantic/Canary"
     },
     {
       "name": "Cape Verde",
       "code": "CV",
-      "image": "",
+      "image": "https://flagsapi.com/CV/shiny/64.png",
       "continent": "Atlantic/Cape_Verde"
     },
     {
       "name": "Faroe Islands",
       "code": "FO",
-      "image": "",
+      "image": "https://flagsapi.com/FO/shiny/64.png",
       "continent": "Atlantic/Faroe"
     },
     {
       "name": "South Georgia",
       "code": "GS",
-      "image": "",
+      "image": "https://flagsapi.com/GS/shiny/64.png",
       "continent": "Atlantic/South_Georgia"
     },
     {
       "name": "Falkland Islands",
       "code": "FK",
-      "image": "",
+      "image": "https://flagsapi.com/FK/shiny/64.png",
       "continent": "Atlantic/Stanley"
-    },
-    {
-      "name": "Australia",
-      "code": "AU",
-      "image": "",
-      "continent": "Atlantic/Adelaide"
     },
     {
       "name": "Andorra ",
       "code": "AD",
-      "image": "",
+      "image": "https://flagsapi.com/AD/shiny/64.png",
       "continent": "Europe/Andorra"
     },
     {
       "name": "Greece",
       "code": "GR",
-      "image": "",
+      "image": "https://flagsapi.com/GR/shiny/64.png",
       "continent": "Europe/Athens"
     },
     {
       "name": "Serbia",
       "code": "RS",
-      "image": "",
+      "image": "https://flagsapi.com/RS/shiny/64.png",
       "continent": "Europe/Belgrade"
     },
     {
       "name": "Germany",
       "code": "DE",
-      "image": "",
+      "image": "https://flagsapi.com/DE/shiny/64.png",
       "continent": "Europe/Berlin"
     },
     {
       "name": "Belgium",
       "code": "BE",
-      "image": "",
+      "image": "https://flagsapi.com/BE/shiny/64.png",
       "continent": "Europe/Brussels"
     },
     {
       "name": "Romania",
       "code": "RO",
-      "image": "",
+      "image": "https://flagsapi.com/RO/shiny/64.png",
       "continent": "Europe/Bucharest"
     },
     {
       "name": "Hungary",
       "code": "HU",
-      "image": "",
+      "image": "https://flagsapi.com/HU/shiny/64.png",
       "continent": "Europe/Budapest"
     },
     {
       "name": "Moldova",
       "code": "MD",
-      "image": "",
+      "image": "https://flagsapi.com/MD/shiny/64.png",
       "continent": "Europe/Chisinau"
     },
     {
       "name": "Ireland",
       "code": "IE",
-      "image": "",
+      "image": "https://flagsapi.com/IE/shiny/64.png",
       "continent": "Europe/Dublin"
     },
     {
       "name": "Gibraltar",
       "code": "GI",
-      "image": "",
+      "image": "https://flagsapi.com/GI/shiny/64.png",
       "continent": "Europe/Gibraltar"
     },
     {
       "name": "Finland",
       "code": "FI",
-      "image": "",
+      "image": "https://flagsapi.com/FI/shiny/64.png",
       "continent": "Europe/Helsinki"
     },
     {
       "name": "Turkey",
       "code": "TR",
-      "image": "",
+      "image": "https://flagsapi.com/TR/shiny/64.png",
       "continent": "Europe/Istanbul"
     },
     {
       "name": "Ukraine",
       "code": "UA",
-      "image": "",
+      "image": "https://flagsapi.com/UA/shiny/64.png",
       "continent": "Europe/Kyiv"
-    },
-    {
-      "name": "Portugal",
-      "code": "PT",
-      "image": "",
-      "continent": "Europe/Lisbon"
     },
     {
       "name": "London",
       "code": "GB",
-      "image": "",
+      "image": "https://flagsapi.com/GB/shiny/64.png",
       "continent": "Europe/United Kingdom"
-    },
-    {
-      "name": "Spain ",
-      "code": "ES",
-      "image": "",
-      "continent": "Europe/Madrid"
     },
     {
       "name": "Malta",
       "code": "MT",
-      "image": "",
+      "image": "https://flagsapi.com/MT/shiny/64.png",
       "continent": "Europe/Malta"
     },
     {
       "name": "Belarus",
       "code": "BY",
-      "image": "",
+      "image": "https://flagsapi.com/BY/shiny/64.png",
       "continent": "Europe/Minsk"
     },
     {
       "name": "France",
       "code": "FR",
-      "image": "",
+      "image": "https://flagsapi.com/FR/shiny/64.png",
       "continent": "Europe/Paris"
     },
     {
       "name": "Czech Republic",
       "code": "CZ",
-      "image": "",
+      "image": "https://flagsapi.com/CZ/shiny/64.png",
       "continent": "Europe/Prague"
     },
     {
       "name": "Latvia",
       "code": "LV",
-      "image": "",
+      "image": "https://flagsapi.com/LV/shiny/64.png",
       "continent": "Europe/Riga"
     },
     {
       "name": "Italy",
       "code": "IT",
-      "image": "",
+      "image": "https://flagsapi.com/IT/shiny/64.png",
       "continent": "Europe/Rome"
     },
     {
       "name": "Bulgaria",
       "code": "BG",
-      "image": "",
+      "image": "https://flagsapi.com/BG/shiny/64.png",
       "continent": "Europe/Sofia"
     },
     {
       "name": "Estonia",
       "code": "EE",
-      "image": "",
+      "image": "https://flagsapi.com/EE/shiny/64.png",
       "continent": "Europe/Tallinn"
     },
     {
       "name": "Albania",
       "code": "AL",
-      "image": "",
+      "image": "https://flagsapi.com/AL/shiny/64.png",
       "continent": "Europe/Tirane"
     },
     {
       "name": "Austria",
       "code": "AT",
-      "image": "",
+      "image": "https://flagsapi.com/AT/shiny/64.png",
       "continent": "Europe/Vienna"
     },
     {
       "name": "Lithuania",
       "code": "LT",
-      "image": "",
+      "image": "https://flagsapi.com/LT/shiny/64.png",
       "continent": "Europe/Vilnius"
     },
     {
       "name": "Poland",
       "code": "PL",
-      "image": "",
+      "image": "https://flagsapi.com/PL/shiny/64.png",
       "continent": "Europe/Warsaw"
     },
     {
       "name": "Switzerland",
       "code": "CH",
-      "image": "",
+      "image": "https://flagsapi.com/CH/shiny/64.png",
       "continent": "Europe/Zurich"
     },
     {
       "name": "British Indian Ocean Territory",
       "code": "IO",
-      "image": "",
+      "image": "https://flagsapi.com/IO/shiny/64.png",
       "continent": "Indian/Chagos"
     },
     {
       "name": "Maldives",
       "code": "MV",
-      "image": "",
+      "image": "https://flagsapi.com/NV/shiny/64.png",
       "continent": "Indian/Maldives"
     },
     {
       "name": "Mauritius",
       "code": "MU",
-      "image": "",
+      "image": "https://flagsapi.com/MU/shiny/64.png",
       "continent": "Indian/Mauritius"
     },
     {
       "name": "Samoa",
       "code": "WS",
-      "image": "",
+      "image": "https://flagsapi.com/WS/shiny/64.png",
       "continent": "Pacific/Apia"
     },
     {
       "name": "New Zealand",
       "code": "NZ",
-      "image": "",
+      "image": "https://flagsapi.com/NS/shiny/64.png",
       "continent": "Pacific/Auckland"
     },
     {
       "name": "Papua New Guinea",
       "code": "PG",
-      "image": "",
+      "image": "https://flagsapi.com/PG/shiny/64.png",
       "continent": "Pacific/Bougainville"
-    },
-    {
-      "name": "Chile",
-      "code": "CL",
-      "image": "",
-      "continent": "Pacific/Easter"
     },
     {
       "name": "Vanuatu",
       "code": "VU",
-      "image": "",
+      "image": "https://flagsapi.com/VU/shiny/64.png",
       "continent": "Pacific/Efate"
     },
     {
       "name": "Tokelau",
       "code": "TK",
-      "image": "",
+      "image": "https://flagsapi.com/TK/shiny/64.png",
       "continent": "Pacific/Fakaofo"
     },
     {
       "name": "Fiji",
       "code": "FJ",
-      "image": "",
+      "image": "https://flagsapi.com/FJ/shiny/64.png",
       "continent": "Pacific/Fiji"
-    },
-    {
-      "name": "Ecuador ",
-      "code": "EC",
-      "image": "",
-      "continent": "Pacific/Galapagos"
     },
     {
       "name": "French Polynesia",
       "code": "PF",
-      "image": "",
+      "image": "https://flagsapi.com/PF/shiny/64.png",
       "continent": "Pacific/Gambier"
     },
     {
       "name": "Solomon Islands",
       "code": "SB",
-      "image": "",
+      "image": "https://flagsapi.com/SB/shiny/64.png",
       "continent": "Pacific/Guadalcanal"
     },
     {
       "name": "Guam",
       "code": "GU",
-      "image": "",
+      "image": "https://flagsapi.com/GU/shiny/64.png",
       "continent": "Pacific/Guam"
     },
     {
       "name": "Kiribati",
       "code": "KI",
-      "image": "",
+      "image": "https://flagsapi.com/KI/shiny/64.png",
       "continent": "Pacific/Kanton"
-    },
-    {
-      "name": "Kiribati",
-      "code": "KI",
-      "image": "",
-      "continent": "Pacific/Kiritimati"
     },
     {
       "name": "Federated States of Micronesia",
       "code": "FM",
-      "image": "",
+      "image": "https://flagsapi.com/FM/shiny/64.png",
       "continent": "Pacific/Kosrae"
     },
     {
       "name": "Marshall Islands",
       "code": "MH",
-      "image": "",
+      "image": "https://flagsapi.com/MH/shiny/64.png",
       "continent": "Pacific/Kwajalein"
-    },
-    {
-      "name": "French Polynesia",
-      "code": "PF",
-      "image": "",
-      "continent": "Pacific/Marquesas"
     },
     {
       "name": "Nauru",
       "code": "NR",
-      "image": "",
+      "image": "https://flagsapi.com/NR/shiny/64.png",
       "continent": "Pacific/Nauru"
     },
     {
       "name": "Niue",
       "code": "NU",
-      "image": "",
+      "image": "https://flagsapi.com/NU/shiny/64.png",
       "continent": "Pacific/Niue"
     },
     {
       "name": "Norfolk Island",
       "code": "NF",
-      "image": "",
+      "image": "https://flagsapi.com/NF/shiny/64.png",
       "continent": "Pacific/Norfolk"
     },
     {
       "name": "New Caledonia",
       "code": "NC",
-      "image": "",
+      "image": "https://flagsapi.com/NC/shiny/64.png",
       "continent": "Pacific/Noumea"
     },
     {
       "name": "American Samoa",
       "code": "AS",
-      "image": "",
+      "image": "https://flagsapi.com/AS/shiny/64.png",
       "continent": "Pacific/Pago_Pago"
     },
     {
       "name": "Palau",
       "code": "PW",
-      "image": "",
+      "image": "https://flagsapi.com/pW/shiny/64.png",
       "continent": "Pacific/Palau"
     },
     {
       "name": "Pitcairn Islands",
       "code": "PN",
-      "image": "",
+      "image": "https://flagsapi.com/PN/shiny/64.png",
       "continent": "Pacific/Pitcairn"
-    },
-    {
-      "name": "Papua New",
-      "code": "PG",
-      "image": "",
-      "continent": "Pacific/Port_Moresby"
     },
     {
       "name": "Cook Islands",
       "code": "CK",
-      "image": "",
+      "image": "https://flagsapi.com/CK/shiny/64.png",
       "continent": "Pacific/Rarotonga"
-    },
-    {
-      "name": "French Polynesia",
-      "code": "PF",
-      "image": "",
-      "continent": "Pacific/Tahiti"
     },
     {
       "name": "Kiribati",
       "code": "KI",
-      "image": "",
+      "image": "https://flagsapi.com/KI/shiny/64.png",
       "continent": "Pacific/Tarawa"
     },
     {
       "name": "Tonga",
       "code": "TO",
-      "image": "",
+      "image": "https://flagsapi.com/TO/shiny/64.png",
       "continent": "Pacific/Tongatapu"
     }
   ]
