@@ -255,127 +255,127 @@
     {
       "name": "Japan",
       "code": "JP",
-      "image": "",
+      "image": "https://flagsapi.com/JP/shiny/64.png",
       "continent": "Asia/Tokyo"
     },
     {
       "name": "Armenia",
       "code": "AM",
-      "image": "",
+      "image": "https://flagsapi.com/AM/shiny/64.png",
       "continent": "Asia/Yerevan"
     },
     {
       "name": "Côte d'Ivoire",
       "code": "CI",
-      "image": "",
+      "image": "https://flagsapi.com/CI/shiny/64.png",
       "continent": "Africa/Abidjan"
     },
     {
       "name": "Algeria",
       "code": "DZ",
-      "image": "",
+      "image": "https://flagsapi.com/DZ/shiny/64.png",
       "continent": "Africa/Algiers"
     },
     {
       "name": "Guinea-Bissau ",
       "code": "GW",
-      "image": "",
+      "image": "https://flagsapi.com/GW/shiny/64.png",
       "continent": "Africa/Bissau"
     },
     {
       "name": "Egypt",
       "code": "EG",
-      "image": "",
+      "image": "https://flagsapi.com/EG/shiny/64.png",
       "continent": "Africa/Cairo"
     },
     {
       "name": "Morocco",
       "code": "MA",
-      "image": "",
+      "image": "https://flagsapi.com/MA/shiny/64.png",
       "continent": "Africa/Casablanca"
     },
     {
       "name": "Spain (Ceuta)",
       "code": "ES",
-      "image": "",
+      "image": "https://flagsapi.com/ES/shiny/64.png",
       "continent": "Africa/Ceuta"
     },
     {
       "name": "Western Sahara",
       "code": "EH",
-      "image": "",
+      "image": "https://flagsapi.com/EH/shiny/64.png",
       "continent": "Africa/El_Aaiun"
     },
     {
       "name": "South Africa",
       "code": "ZA",
-      "image": "",
+      "image": "https://flagsapi.com/ZA/shiny/64.png",
       "continent": "Africa/Johannesburg"
     },
     {
       "name": "South Sudan",
       "code": "SS",
-      "image": "",
+      "image": "https://flagsapi.com/SS/shiny/64.png",
       "continent": "Africa/Juba"
     },
     {
       "name": "Sudan",
-      "code": "VN",
-      "image": "",
+      "code": "SD",
+      "image": "https://flagsapi.com/SD/shiny/64.png",
       "continent": "Africa/Khartoum"
     },
     {
       "name": "Nigeria",
       "code": "NG",
-      "image": "",
+      "image": "https://flagsapi.com/NG/shiny/64.png",
       "continent": "Africa/Lagos"
     },
     {
       "name": "Mozambique",
       "code": "MZ",
-      "image": "",
+      "image": "https://flagsapi.com/MZ/shiny/64.png",
       "continent": "Africa/Maputo"
     },
     {
       "name": "Liberia",
       "code": "LR",
-      "image": "",
+      "image": "https://flagsapi.com/LR/shiny/64.png",
       "continent": "Africa/Monrovia"
     },
     {
       "name": "Kenya",
       "code": "KE",
-      "image": "",
+      "image": "https://flagsapi.com/KE/shiny/64.png",
       "continent": "Africa/Nairobi"
     },
     {
       "name": "Chad",
       "code": "TD",
-      "image": "",
+      "image": "https://flagsapi.com/TD/shiny/64.png",
       "continent": "Africa/Ndjamena"
     },
     {
       "name": "São Tomé and Príncipe",
       "code": "ST",
-      "image": "",
+      "image": "https://flagsapi.com/ST/shiny/64.png",
       "continent": "Africa/Sao_Tome"
     },
     {
       "name": "Libya",
       "code": "LY",
-      "image": "",
+      "image": "https://flagsapi.com/LY/shiny/64.png",
       "continent": "Africa/Tripoli"
     },
     {
       "name": "Tunisia",
       "code": "TN",
-      "image": "",
+      "image": "https://flagsapi.com/TN/shiny/64.png",
       "continent": "Africa/Tunis"
     },
     {
       "name": "Namibia",
       "code": "NA",
-      "image": "",
+      "image": "https://flagsapi.com/NA/shiny/64.png",
       "continent": "Africa/Windhoek"
     },
     {
