@@ -3,31 +3,31 @@
 	  {
       "name": "Thailand",
       "code": "TH",
-      "image": "",
+      "image": "https://flagsapi.com/TH/shiny/64.png",
       "continent": "Asia/Bangkok"
     },
     {
       "name": "Kazakhstan",
       "code": "KZ",
-      "image": "",
+      "image": "https://flagsapi.com/KZ/shiny/64.png",
       "continent": "Asia/Almaty"
     },
     {
       "name": "Jordan",
       "code": "JO",
-      "image": "",
+      "image": "https://flagsapi.com/JO/shiny/64.png",
       "continent": "Asia/Amman"
     },
     {
       "name": "Russia",
-      "code": "RJ",
-      "image": "",
+      "code": "RU",
+      "image": "https://flagsapi.com/RU/shiny/64.png",
       "continent": "Asia/Anadyr"
     },
     {
       "name": "Turkmenistan",
       "code": "TM",
-      "image": "",
+      "image": "https://flagsapi.com/TM/shiny/64.png",
       "continent": "Asia/Ashgabat"
     },
     {
@@ -183,7 +183,7 @@
     {
       "name": "Philippines",
       "code": "PH",
-      "image": "",
+      "image": "https://flagsapi.com/PH/shiny/64.png",
       "continent": "Asia/Manila"
     },
     {
@@ -231,7 +231,7 @@
     {
       "name": "China",
       "code": "CN",
-      "image": "",
+      "image": "https://flagsapi.com/CN/shiny/64.png",
       "continent": "Asia/Shanghai"
     },
     {
