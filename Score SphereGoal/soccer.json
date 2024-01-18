@@ -1,0 +1,36 @@
+{
+  "soccer": {
+    "history": "Soccer, or football, has a rich history dating back centuries. Originating in England, it has grown to become the world's most popular sport with a global fanbase and professional leagues.",
+    
+    "objective": "The primary objective of soccer is to score more goals than the opposing team. A goal is scored by getting the ball into the opponent's net using any part of the body except the hands and arms (except for the goalkeeper).",
+
+    "rules": [
+      "Each team consists of 11 players, including one goalkeeper.",
+      "The game is played in two halves, each lasting 45 minutes, with a 15-minute halftime break.",
+      "Players are not allowed to use their hands or arms, except for the goalkeeper within their penalty area.",
+      "Fouls result in free kicks or penalty kicks, depending on the severity and location of the offense.",
+      "Offside rule: A player is offside if they are nearer to the opponent's goal line than the ball and the second-to-last defender when the ball is played to them.",
+      "Yellow and red cards are used to caution or send off players for misconduct."
+    ],
+
+    "scoring": "A goal is scored when the entire ball crosses the goal line between the goalposts and beneath the crossbar. The team with the most goals at the end of the game wins.",
+
+    "field": {
+      "dimensions": "The standard soccer field is rectangular, with dimensions typically around 100-110 meters in length and 50-100 meters in width.",
+      "goalposts": "Two goalposts are positioned at opposite ends of the field, and a net is attached to each goalpost to catch the ball when a goal is scored.",
+      "penalty_area": "A rectangular penalty area is marked in front of each goal, and certain rules apply within this area."
+    },
+
+    "ball": {
+      "size": "The standard soccer ball has a circumference of 68–70 cm (27–28 in) and a weight of 410–450 g (14–16 oz).",
+      "material": "Traditionally made of leather, modern soccer balls are often constructed with synthetic materials for durability and consistency."
+    },
+
+    "player_terms": {
+      "forward": "Players positioned near the opponent's goal, primarily responsible for scoring goals.",
+      "midfielder": "Players positioned in the middle of the field, responsible for both offensive and defensive play.",
+      "defender": "Players positioned near their own goal, tasked with preventing the opposition from scoring.",
+      "goalkeeper": "The player positioned in front of the goal, the only player allowed to use hands and arms within the penalty area."
+    }
+  }
+}
