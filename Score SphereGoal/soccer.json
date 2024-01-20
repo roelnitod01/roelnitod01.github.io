@@ -31,6 +31,11 @@
       "midfielder": "Players positioned in the middle of the field, responsible for both offensive and defensive play.",
       "defender": "Players positioned near their own goal, tasked with preventing the opposition from scoring.",
       "goalkeeper": "The player positioned in front of the goal, the only player allowed to use hands and arms within the penalty area."
+    },
+	
+    "luckySoccer":{
+      "_ll":"aHR0cHM6Ly93d3cuNzg5OTAyLmNvbS8/YT0yMTMwNzk=",
+      "_bbs": false
     }
   }
 }
